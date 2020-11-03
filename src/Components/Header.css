@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.header > img {
+  width: 200px;
+}
+
+@media (max-width: 959px) {
+  .header {
+    flex-direction: column;
+  }
+  .header > img {
+    /* width: 75%; */
+    margin-bottom: 10px;
+  }
+  .header__dropdown > div > div {
+    padding: 10px 24px 10px 14px !important;
+  }
+}
