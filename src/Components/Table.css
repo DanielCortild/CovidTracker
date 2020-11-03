@@ -1,5 +1,5 @@
 .table {
-  height: 400px;
+  height: auto;
   overflow: scroll;
   columns: #6a6a6a;
 }
