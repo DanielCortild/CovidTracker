@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid.danielcortild.me/static/css/main.31fc2d49.chunk.css",
+    "main.js": "/covid.danielcortild.me/static/js/main.758793dd.chunk.js",
+    "main.js.map": "/covid.danielcortild.me/static/js/main.758793dd.chunk.js.map",
+    "runtime-main.js": "/covid.danielcortild.me/static/js/runtime-main.0dfa0f3c.js",
+    "runtime-main.js.map": "/covid.danielcortild.me/static/js/runtime-main.0dfa0f3c.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/covid.danielcortild.me/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.243715ba.chunk.js": "/covid.danielcortild.me/static/js/2.243715ba.chunk.js",
+    "static/js/2.243715ba.chunk.js.map": "/covid.danielcortild.me/static/js/2.243715ba.chunk.js.map",
+    "static/js/3.a379603d.chunk.js": "/covid.danielcortild.me/static/js/3.a379603d.chunk.js",
+    "static/js/3.a379603d.chunk.js.map": "/covid.danielcortild.me/static/js/3.a379603d.chunk.js.map",
+    "index.html": "/covid.danielcortild.me/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/covid.danielcortild.me/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.31fc2d49.chunk.css.map": "/covid.danielcortild.me/static/css/main.31fc2d49.chunk.css.map",
+    "static/js/2.243715ba.chunk.js.LICENSE.txt": "/covid.danielcortild.me/static/js/2.243715ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dfa0f3c.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.243715ba.chunk.js",
+    "static/css/main.31fc2d49.chunk.css",
+    "static/js/main.758793dd.chunk.js"
+  ]
+}
